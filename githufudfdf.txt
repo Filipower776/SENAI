@@ -1,0 +1,6 @@
+git init ..........................iniciar
+git add -A ........................adicionar tudo
+git status ........................conseguir status atual
+git commit -m "" ..................declarar versão
+git push ..........................enviar ao site
+git remote add origin .............declarar repositório	
